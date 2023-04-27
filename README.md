@@ -6,7 +6,7 @@
 
 
 
-## I'm a CS Student , AI/ML Enthusiast , Developer, and GDSC ML Technical Leader!!
+## I'm a CS Student , AI/ML Enthusiast , Developer, and GDSC Lead amd ex-ML Technical Leader!!
 
 - 🌱 I’m currently "trying" learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
