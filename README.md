@@ -24,7 +24,7 @@
 &nbsp;&nbsp;
 [![website](./img/twitter.svg)](https://twitter.com/TheBilalAamer#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin.svg)](https://www.linkedin.com/in/bilal-aamer#gh-light-mode-only)
+[![website](./img/linkedin.svg)](https://www.linkedin.com/in/bilalaamer#gh-light-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram.svg)](https://www.instagram.com/bilal_aamer2#gh-light-mode-only)
 
