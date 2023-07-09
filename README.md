@@ -56,7 +56,7 @@
 [twitter]: https://twitter.com/TheBilalAamer
 [youtube]: https://www.youtube.com/c/BlunGlu
 [instagram]: https://www.instagram.com/bilal_aamer2/
-[linkedin]: https://www.linkedin.com/in/bilal-aamer/
+[linkedin]: https://www.linkedin.com/in/bilalaamer/
 [github]: https://github.com/bilal-aamer
 [kaggle]: https://www.kaggle.com/bilalaamer02
 
