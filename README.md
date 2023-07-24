@@ -9,7 +9,7 @@
 
 ## I'm a CS Student , AI/ML Enthusiast , Developer, and ex-GDSC Lead amd ex-ML Technical Leader!!
 
-- 🌱 I’m currently "trying" learning everything 🤣
+- 🌱 I’m currently looking into AI/ML Research 
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2023 Goals: Push more on OSS and AI Research. ~🥅 2022 Goals: Learn more about web3 and contribute towards open source~
 
