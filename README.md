@@ -6,7 +6,6 @@
 
 
 
-
 ## I'm a CS Student , AI/ML Engineer, Developer, and former GDSC Lead amd ex-ML Technical Leader!!
 
 - 🌱 I’m currently looking into AI/ML Research 
