@@ -18,7 +18,6 @@
 
 ## Connect with me:
 
-
 [![website](./img/youtube.svg)](https://www.youtube.com/c/BlunGlu#gh-light-mode-only)
 &nbsp;&nbsp;
 
