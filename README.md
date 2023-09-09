@@ -52,8 +52,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-aamer)][github]
 
-<!-- [website]: https://codeSTACKr.com -->
-<!-- [course]: http://vsCodeHero.com -->
 [twitter]: https://twitter.com/TheBilalAamer
 [youtube]: https://www.youtube.com/c/BlunGlu
 [instagram]: https://www.instagram.com/bilal_aamer2/
