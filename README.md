@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/TheBilalAamer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTheBilalAamer&screen_name=TheBilalAamer)
 
 ## I'm a CS Student, AI/ML Engineer, Developer, and former GDSC Lead and ex-ML Technical Leader!!
-
+ 
 - 🌱 I’m currently looking into AI/ML Research 
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2023 Goals: Push more on OSS and AI Research. ~🥅 2022 Goals: Learn more about web3 and contribute towards open source~
