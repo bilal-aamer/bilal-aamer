@@ -1,4 +1,4 @@
-# Hi there I'm **Bilal Aamer** - aka [Blunglu][youtube] 👋 
+# Hi there I'm **Bilal Aamer** 👋 
 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTJBizZGwqxpp7blat7PQTQ?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
