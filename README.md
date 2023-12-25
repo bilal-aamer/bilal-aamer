@@ -8,9 +8,6 @@
  
 - 🌱 I’m currently looking into AI/ML Research 
 
-
-
-
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 ~2023 Goals: Push more on OSS and AI Research.~ ~🥅 2022 Goals: Learn more about web3 and contribute towards open source~
 - ⚡ Fun fact: I love to read about emerging tech and play video games
