@@ -10,9 +10,6 @@
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 ~2023 Goals: Push more on OSS and AI Research.~ ~🥅 2022Goals: Learn more about web3 and contribute towards open source~
 - ⚡ Fun fact: I love to read about emerging tech and play video games
-- 
-- 
-
 ** Stil l have to push 90% of my work req which is of your concern **
 
 
