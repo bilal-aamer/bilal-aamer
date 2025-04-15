@@ -4,7 +4,7 @@
 
 I am **Bilal** Aamer
 
-I'm a **GenAI Engineer**, **Community Organizer**, and **Open Source AI Advocate** dedicated to building tools, projects, and communities that drive the future of GenAI. My mission is to democratize AI by fostering collaboration, empowering developers, and making cutting-edge technologies accessible to everyone.
+I'm a **Agentic AI Builder**, **GenAI Engineer**, **Community Organizer**, and **Open Source AI Advocate** dedicated to building tools, projects, and communities that drive the future of GenAI. My mission is to democratize AI by fostering collaboration, empowering developers, and making cutting-edge technologies accessible to everyone.
 
 ### 🏢 Previous Organizations  
 I’ve had the privilege of working with:  
