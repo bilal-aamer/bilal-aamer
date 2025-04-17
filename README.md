@@ -58,6 +58,7 @@ If you're an **open source enthusiast** or **developer** passionate about pushin
 ### ⭐ Early Projects I've worked on:   
 - **[LLM-VM](https://github.com/anarchy-ai/LLM-VM):** to build 🏗️ an open generalized artificial intelligence 🤖  
 - **[WiE](https://github.com/SkyComputingPvt/WiE):** Humanizing Social Media Super App.  
+- **[AutoPaLM](https://github.com/bilal-aamer/AutoPaLM):** AutoGPT using PaLM API.  
 
 Check out my other repositories for more projects and contributions!  
 
